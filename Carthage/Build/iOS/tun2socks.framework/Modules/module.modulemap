@@ -1,3 +1,0 @@
-framework module tun2socks {
-    header "tun2socks-Swift.h"
-}
